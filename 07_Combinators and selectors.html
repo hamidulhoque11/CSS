@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinators</title>
+   <style>
+     div p{
+        color: blue;
+    }
+    div > p{
+        color: greenyellow   ;
+    }
+    
+    div ~ p{
+        color: brown;
+    }
+    div + p{
+        color: rgb(196, 116, 19);
+    }
+   </style>
+</head>
+<body>
+    <div>
+        <p>child paragraph</p>
+        <p>child paragraph </p>
+        <section>
+            <p>in selection tag</p>
+        </section>
+    </div>
+    <p>adjecent sibling selectors</p>
+    <p>General sibling selectors</p>
+    <p>General sibling selectors</p>    
+    <p>General sibling selectors</p>
+</body>
+</html>
