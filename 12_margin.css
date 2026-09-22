@@ -1,0 +1,19 @@
+ #savoy{
+    color: rgb(194, 57, 57);
+    background-color:burlywood;
+    width: 100px;
+    text-align:center;
+    margin: 50px;
+    margin-top: 0px;
+   
+}
+#polar{
+    color: white;
+    background-color: brown;
+    width: 100px;
+    text-align: center;
+    margin: 50px;
+    margin-left: 0px;
+    margin-top: 0px;
+    
+}
