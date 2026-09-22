@@ -1,0 +1,21 @@
+h1{
+    color: brown  ;
+    border: 1px solid black;
+    width: 330px;
+    border-radius: 40px;
+    text-align: center;
+}
+h2{
+    border-width:5px;
+    border-color: black;
+    border-style: dotted;
+    width: 200px;
+    color: blueviolet;
+    text-decoration: line-through;
+}
+h3,h4{
+    width: 130px;
+    border-top: 1px double pink;
+    font-size: 50px;
+    border-bottom: 7px double red;
+}
