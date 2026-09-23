@@ -1,0 +1,27 @@
+ .section{
+    background-color:burlywood;
+    width: 200px;
+ }
+ .section:hover{
+   background: rgb(194, 179, 179);
+ }
+ .facebook{
+    text-decoration: none;
+ }
+ .facebook{
+    font-size: 20px;
+ }
+ a:hover{
+    color: blanchedalmond;
+   background: brown;
+   text-decoration: underline;
+}
+p{
+    font-size: 50px;
+    
+    background-color: blanchedalmond;
+}
+p:hover{
+    background-color: aqua;
+    
+}
