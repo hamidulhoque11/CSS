@@ -1,0 +1,23 @@
+.divclass{
+    background-color: rgb(214, 204, 204);
+
+}
+p:first-child{
+    color:white;
+}
+p:last-child{
+    color:white;
+    background-color: black;
+}
+p:last-child:hover{
+    background-color: brown;
+}
+p:nth-child(even){
+    background-color: brown;
+}
+p:nth-child(3){
+    background-color: aquamarine;
+}
+p:first-of-type{
+    background-color: blue;
+}
