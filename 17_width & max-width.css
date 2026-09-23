@@ -1,0 +1,10 @@
+.headerOne{
+    width:800px;
+    border: 1px dotted blue;
+    background-color: brown;
+}
+.headerTwo{
+    max-width: 800px;
+    border: 1px dotted blue;
+    background-color: antiquewhite;
+}
