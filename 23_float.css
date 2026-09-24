@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+#divOne{
+    background-color: brown;
+    color: black;
+    float: left;
+}
+#divTwo{
+    float:center;
+    text-align: center;
+    width: 400px;
+    
+}
+#divThree{
+    background-color: black;
+    color: white;
+    float: right;
+}
+#divThree:hover{
+    background-color: rgb(153, 65, 65);
+    color: black;
+    float: right;
+}
+
+#clear_div{
+    clear: both;
+}
+#divFour{
+    background-color: rgb(76, 76, 122);
+    color: aliceblue;
+    
+}
+#about_section::selection{
+    background-color: bisque;
+    color: black;
+}
